@@ -1,0 +1,22 @@
+{
+  "name": "facebuk",
+  "version": "1.0.0",
+  "description": "Copy of facebook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khuongngoduc0310/FaceBuk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khuongngoduc0310/FaceBuk/issues"
+  },
+  "homepage": "https://github.com/khuongngoduc0310/FaceBuk#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
